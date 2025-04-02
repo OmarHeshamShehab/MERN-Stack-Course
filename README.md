@@ -1,1 +1,2 @@
-# Student-List
+# MERN Stack Course & Project
+## Student-List
